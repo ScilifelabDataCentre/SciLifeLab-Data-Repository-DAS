@@ -1,0 +1,37 @@
+[
+  {
+    "question_number":1,
+    "question":"Question 1. What use conditions(restictions) apply to this data?",
+    "answers":[
+      "option 1",
+      "option 2",
+      "option 3"
+    ]
+  },
+  {
+      "question_number":2,
+      "question":"Question 2. An access request need to include the following:",
+      "answers":[
+        "name of PI and host organisation",
+        "contact details (including name and email of the requester)",
+        "scientific purpose of data access reques",
+        "commitment to inform when the data has been used in a publication",
+        "commitment not to host or share the data outside the requesting organisation",
+        "statement of non-commercial use of data"
+      ]
+    },
+    {
+        "question_number":3,
+        "question":"Question 3. In addition, the requester needs to provide:",
+        "answers":[
+          "a signed data user agreement",
+          "an agreement to Terms and Conditions",
+          "nothing aditional is required"
+        ],
+        "text_in_statement":[
+          "upon completion of our user agreement",
+          "upon completion of our terms and conditions",
+          "if all conditions are fulfilled, you will then be able to download the data"
+        ]
+      }
+]
