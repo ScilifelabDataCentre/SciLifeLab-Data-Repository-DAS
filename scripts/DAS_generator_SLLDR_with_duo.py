@@ -3,14 +3,15 @@ import json
 import csv
 import sys
 
+
 # Import json file containing questions with answers
-with open ('DAS_tool_SLLDR/question_data.json') as json_file:
+with open ("../data/question_data.json") as json_file:
     question_data = json.load(json_file)
     json_file.close()
 
 # Import dou codes as csv file
 duo_data= {}
-with open('DAS_tool_SLLDR/duo.json') as duo_csv:
+with open("../data/duo.csv") as duo_csv:
     csv_reader = csv.DictReader(duo_csv)
     for rows in csv_reader:
         label = rows["label"]

@@ -3,7 +3,7 @@ import json
 import sys
 
 # Import json file containing questions with answers
-with open ('question_data.json') as json_file:
+with open ("../data/question_data.json") as json_file:
     question_data = json.load(json_file)
     json_file.close()
 
