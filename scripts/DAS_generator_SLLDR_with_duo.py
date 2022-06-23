@@ -23,7 +23,7 @@ for i in irrelevant_duo:
     del duo_data[i]
 
 # Write duo codes csv to json
-with open("duo.json", "w") as duo_json:
+with open("../data/duo.json", "w") as duo_json:
     duo_json.write(json.dumps(duo_data, indent =4))
 
 # Collect all duo labels in one array
