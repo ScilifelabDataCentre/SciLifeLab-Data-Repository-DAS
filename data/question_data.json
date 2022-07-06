@@ -1,7 +1,7 @@
 [
   {
     "question_number":1,
-    "question":"Question 1. What use conditions(restictions) apply to this data?",
+    "question":"Question 1. What use conditions(restrictions) apply to this data?",
     "answers":[
       "option 1",
       "option 2",
@@ -14,7 +14,7 @@
       "answers":[
         "name of PI and host organisation",
         "contact details (including name and email of the requester)",
-        "scientific purpose of data access reques",
+        "scientific purpose of data access request",
         "commitment to inform when the data has been used in a publication",
         "commitment not to host or share the data outside the requesting organisation",
         "statement of non-commercial use of data"
