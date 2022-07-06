@@ -109,7 +109,7 @@ else:
     choices_q3_das = str(choices_q3_das)+" and "+ str(choices_q3[len(choices_q3)-1])
 
 # Print suggested acces statement example 2 as a coherent text
-print("\nSuggested Access statement:\nThe data is not openly avaliabe due to: "+ choices_q1_das + ". To submit an access request please indicate: "+ choices_q2_das +". Once the application is received and assessed, access will be granted " + choices_q3_das+".\n")
+print("\nSuggested Data Access statement:\nThe data is not openly avaliabe due to: "+ choices_q1_das + ". To submit an access request please indicate: "+ choices_q2_das +". Once the application is received and assessed, access will be granted " + choices_q3_das+".\n")
 
 #Print suggested access statement example 2 with answers as lists
 # print("\nSuggested Access statement:\n\nThe data is not openly avaliabe due to: ")
