@@ -1,6 +1,6 @@
 # SciLifeLab-Data-Repository-DAS
 
-Data Access Statement generator for the SciLifeLab Data Repository for proof of concept. 
+Data Access Statement generator for the SciLifeLab Data Repository for proof of concept. This is a part of ongoing work on data access statements for the SciLifeLab Data Repository. 
 
 ## Data Use Onthology
 
