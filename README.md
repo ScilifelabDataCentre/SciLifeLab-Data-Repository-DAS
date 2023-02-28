@@ -4,4 +4,4 @@ Data Access Statement generator for the SciLifeLab Data Repository for proof of 
 
 ## Data Use Onthology
 
-The file data.csv is reused from https://github.com/EBISPOT/DUO. 
+The file duo.csv is reused from https://github.com/EBISPOT/DUO. 
